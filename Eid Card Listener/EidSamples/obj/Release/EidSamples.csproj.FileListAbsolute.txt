@@ -1,0 +1,35 @@
+C:\Users\yacinee\Desktop\CS\EidSamples\obj\Release\EidSamples.csprojAssemblyReference.cache
+C:\Users\yacinee\Desktop\CS\EidSamples\obj\Release\EidSamples.csproj.CoreCompileInputs.cache
+C:\Users\yacinee\Desktop\CS\EidSamples\bin\Release\EidSamples.exe
+C:\Users\yacinee\Desktop\CS\EidSamples\bin\Release\EidSamples.pdb
+C:\Users\yacinee\Desktop\CS\EidSamples\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yacinee\Desktop\CS\EidSamples\obj\Release\EidSamples.csproj.CopyComplete
+C:\Users\yacinee\Desktop\CS\EidSamples\obj\Release\EidSamples.exe
+C:\Users\yacinee\Desktop\CS\EidSamples\obj\Release\EidSamples.pdb
+C:\Users\yacinee\Desktop\CS\EidSamples\bin\Release\System.Management.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\obj\Release\EidSamples.csprojAssemblyReference.cache
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\bin\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\bin\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\bin\Release\System.Management.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\obj\Release\EidSamples.csproj.CopyComplete
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\obj\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid\EidSamples\obj\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\bin\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\bin\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\bin\Release\System.Management.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\obj\Release\EidSamples.csprojAssemblyReference.cache
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\obj\Release\EidSamples.csproj.CopyComplete
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\obj\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\EidCard Listener\EidSamples\obj\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\System.Management.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Release\EidSamples.csprojAssemblyReference.cache
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Release\EidSamples.csproj.CopyComplete
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\CommandLine.dll
+C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\CommandLine.xml
