@@ -4,6 +4,11 @@ Job :
 
  Eid Card listener, catch eid data from eid reader and save them to JSON.
 
+Options:
+
+--daemon enable daemon mode
+--path outputJsonPath
+
 Usage : 
 
  1/ Run EidCard Listener\EidSamples\bin\Release\EidCardListenerPKCS11.exe
