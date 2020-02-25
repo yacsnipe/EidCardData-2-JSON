@@ -33,3 +33,14 @@ C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Re
 C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\obj\Release\EidCardListenerPKCS11.pdb
 C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\CommandLine.dll
 C:\Users\yacinee\Desktop\Projets\Projets Mmf\Eid Card Listener\EidSamples\bin\Release\CommandLine.xml
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\EidCardListenerPKCS11.pdb
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\CommandLine.dll
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\System.Management.dll
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\bin\Release\CommandLine.xml
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\obj\Release\EidSamples.csprojAssemblyReference.cache
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\obj\Release\EidSamples.csproj.CoreCompileInputs.cache
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\obj\Release\EidSamples.csproj.CopyComplete
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\obj\Release\EidCardListenerPKCS11.exe
+C:\Users\yacinee\Projets\EidCardData-2-JSON\Eid Card Listener\EidSamples\obj\Release\EidCardListenerPKCS11.pdb
